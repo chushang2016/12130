@@ -1,4 +1,4 @@
-#   12130_springboot网上酒类商城系统(源码+论文报告) 
+#   12130_springboot网上酒类商城系统
 
 #   项目资料包含：
 *   前后端源代码+SQL脚本
@@ -8,7 +8,7 @@
 #   项目资料获取方式
 *   需要资料或者有任何问题的加QQ：2684634017
 
-*   项目源代码下载地址：http://blog.codercode.cn/#/home/goodDetail?goodId=12130
+*   项目源代码下载地址：https://bysj.bsitem.com/#/home/goodDetail?goodId=12130
 
 
 
